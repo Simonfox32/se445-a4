@@ -16,6 +16,7 @@
   <NationalPark Rating="4.8">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
+    <Phone>435-772-7700</Phone>
     <Address NearestAirport="St. George Regional">
       <Number>1</Number>
       <Street>Zion Park Blvd.</Street>
@@ -60,6 +61,7 @@
   <NationalPark>
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
+    <Phone>360-565-3000</Phone>
     <Address NearestAirport="Seattle-Tacoma International">
       <Number>3002</Number>
       <Street>Mount Angeles Road</Street>
